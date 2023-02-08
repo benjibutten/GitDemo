@@ -1,5 +1,5 @@
 # GitDemo Rep
-This is a demo app for the Git course.
+This is a sample app for the Git course.
 
 ## How to work with git
 1. git checkout main
